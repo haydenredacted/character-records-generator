@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<species id="plasmaman" name="Plasmaman">
+  <description></description>
+
+    <languages>
+    <ref id="gal-common" />
+    <ref id="tradeband" />
+    <ref id="gutter" />
+    <ref id="clownish" />
+    <ref id="cygni-standard" />
+  </languages>
+
+    <citizenships>
+        <ref id="sol" />
+    </citizenships>
+
+</species>

@@ -7,15 +7,12 @@
   <description>The Tajara are a race of humanoids that possess markedly felinoid traits. Tajaran history and society is deeply entrenched in the conflict between its caste system and ruling governments.</description>
 
   <languages>
-    <ref id="tau-ceti-basic" />
-    <ref id="siikmaas" />
     <ref id="siiktajr" />
-    <ref id="yassa" />
-    <ref id="nalrasan" />
-    <ref id="delvahhi" />
-    <ref id="sign" />
+    <ref id="gal-common" />
     <ref id="tradeband" />
-    <ref id="freespeak" />
+    <ref id="gutter" />
+    <ref id="clownish" />
+    <ref id="cygni-standard" />
   </languages>
 
   <citizenships>

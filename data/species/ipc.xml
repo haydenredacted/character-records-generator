@@ -9,13 +9,12 @@
   <description>IPCs are synthetic chassis housing a positronic processing core. From skeletal baselines to humanlike shells, they serve in a variety of roles across the Orion Spur. Their legal status varies wildly between nations, ranging from full citizenship to being classified as property.</description>
 
   <languages>
-    <ref id="tau-ceti-basic" />
-    <ref id="eal" />
-    <ref id="sign" />
-    <ref id="sol-common" />
-    <ref id="elyran-standard" />
+    <ref id="trinary" />
+    <ref id="gal-common" />
     <ref id="tradeband" />
-    <ref id="freespeak" />
+    <ref id="gutter" />
+    <ref id="clownish" />
+    <ref id="cygni-standard" />
   </languages>
 
   <citizenships>

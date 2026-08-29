@@ -6,12 +6,12 @@
   <description>Humans originated on Earth.</description>
 
   <languages>
-    <ref id="tau-ceti-basic" />
-    <ref id="sign" />
     <ref id="sol-common" />
-    <ref id="elyran-standard" />
+    <ref id="gal-common" />
     <ref id="tradeband" />
-    <ref id="freespeak" />
+    <ref id="gutter" />
+    <ref id="clownish" />
+    <ref id="cygni-standard" />
   </languages>
 
   <citizenships>

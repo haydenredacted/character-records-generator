@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <languages>
-  <language id="tau-ceti-basic"  name="Tau Ceti Basic"         shortname="TCB"></language>
-  <language id="eal"             name="Encoded Audio Language" shortname="EAL"></language>
-  <language id="sign"            name="Sign Language">                         </language>
-  <language id="sol-common"      name="Sol Common">                            </language>
-  <language id="elyran-standard" name="Elyran Standard">                       </language>
-  <language id="freespeak"       name="Freespeak">                             </language>
+  <language id="gal-common"      name="Galactic Common">                       </language>
   <language id="tradeband"       name="Tradeband">                             </language>
-  <language id="siikmaas"        name="Siik'maas">                             </language>
+  <language id="gutter"          name="Gutter">                                </language>
+  <language id="clownish"        name="Clownish">                              </language>
+  <language id="cygni-standard"  name="Cygni Standard">                        </language>
+  <language id="sol-common"      name="Sol Common">                            </language>
   <language id="siiktajr"        name="Siik'tajr">                             </language>
-  <language id="yassa"           name="Ya'ssa">                                </language>
-  <language id="delvahhi"        name="Delvahhi">                              </language>
-  <language id="nalrasan"        name="Nal'rasan">                             </language>
   <language id="sintaunathi"     name="Sinta'Unathi">                          </language>
-  <language id="sintaazaziba"    name="Sinta'Azaziba">                         </language>
-  <language id="nralmalic"       name="Nral'Malic">                            </language>
+  <language id="qurvolious"      name="Qurvolious">                            </language>
+  <language id="bubblish"        name="Bubblish">                              </language>
+  <language id="vox-pidgin"      name="Vox-Pidgin">                            </language>
+  <language id="chittin"         name="Chittin">                               </language>
   <language id="rootsong"        name="Rootsong">                              </language>
-  <language id="hivenet"         name="Hivenet">                               </language>
+  <language id="trinary"         name="Trinary">                               </language>
+  <language id="canilunzt"       name="Canilunzt">                             </language>
+  <language id="orluum"          name="Orluum">                                </language>
+  <language id="tkachi"          name="Tkachi">                                </language>
+  <language id="skkula"          name="Skkula-Runespeak">                      </language>
 </languages>

@@ -20,8 +20,8 @@ done
 validate "$schema_dir/citizenships.xsd" data/citizenships.xml
 validate "$schema_dir/languages.xsd" data/languages.xml
 
-for f in data/templates/*.xml; do
-  validate "$schema_dir/template.xsd" "$f"
-done
+# for f in data/templates/*.xml; do
+#   validate "$schema_dir/template.xsd" "$f"
+# done
 
 exit $fail

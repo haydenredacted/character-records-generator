@@ -3,17 +3,15 @@
   <labels>
     <label for="skin-color">Colour</label>
   </labels>
-  <description>A mysterious plant-like species hailing from the depths of space. Dionae are comprised of cat-sized caterpillar-like creatures called nymphs, which form gestalt consciousnesses when two or more combine. Almost every aspect of the species is a mystery: their origins, behaviour, and functions. They are capable of great intellectual and biological feats, surviving primarily off the electromagnetic spectrum and biological matter.</description>
+  <description>A mysterious plant-like species hailing from the depths of space. Dionae are comprised of cat-sized caterpillar-like creatures called nymphs, which form gestalt consciousnesses when two or more combine. Lacking any centralized government and home world, Dionae focus on spreading their species rather than the wider affairs of the galaxy.</description>
 
   <languages>
-    <ref id="tau-ceti-basic" />
     <ref id="rootsong" />
-    <ref id="nralmalic" />
-    <ref id="sintaunathi" />
-    <ref id="sintaazaziba" />
-    <ref id="sign" />
+    <ref id="gal-common" />
     <ref id="tradeband" />
-    <ref id="freespeak" />
+    <ref id="gutter" />
+    <ref id="clownish" />
+    <ref id="cygni-standard" />
   </languages>
 
   <citizenships>
