@@ -10,7 +10,7 @@ Share links let the recipient see a preview of your records, with the option to 
 
 This tool is entirely data-driven in XML, and it's already set up for template sharing. A visual template editor is coming soon, so anybody can create their own templates and share them between one another.
 
-For issues, your best chance of getting a reply is to make an issue here, or to ping @llywelwyn in Discord.
+For issues, your best chance of getting a reply is to make an issue here, or to ping @haydenredacted in Discord.
 
 Cheers.
 
