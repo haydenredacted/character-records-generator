@@ -1,6 +1,6 @@
 # Character Records Generator
 
-A web-based character records tool for [Aurora Station](https://aurorastation.org/). Hosted at [https://ss13.haydenredacted.com/record-generator/](https://ss13.haydenredacted.com/record-generator/).
+A web-based character records tool for [Paradise Station](https://www.paradisestation.org/). Hosted at [https://ss13.haydenredacted.com/record-generator/](https://ss13.haydenredacted.com/record-generator/).
 
 Pick a template and fill in the form. Each section covers a different record. Blank fields are omitted from the output automatically, so no rush to finish everything.
 
